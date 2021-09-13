@@ -1,1 +1,1 @@
-# C18-Class
+# C18-template
